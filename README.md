@@ -8,7 +8,7 @@ A step above would be setting up local development.
 
 To install and edit the doc:
 
-1. Make and activate a virtual environment
+1. Make and activate a virtual environment, we recommend you to use **Python 3.11**. 
 
 ```python
 # Create a virtual environment named '.venv'
